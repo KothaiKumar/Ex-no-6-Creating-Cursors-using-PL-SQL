@@ -45,4 +45,4 @@ close employee_cursor;
 ![image](https://github.com/KothaiKumar/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/121215739/6ff17570-0030-471b-b91d-dd4299362fec)
 
 ### Result:
-Thus,  a cursor is created using PL/SQL.
+Thus,  a cursor is created using PL/SQL successfully.
